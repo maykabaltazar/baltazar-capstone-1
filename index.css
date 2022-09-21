@@ -1,0 +1,34 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Mali', cursive;
+	text-align: center;
+}
+
+#bamm {
+	font-family: 'Parisienne', cursive;
+}
+
+#landing {
+	font-family: 'Lora', serif;
+	text-align: center;
+}
+
+#carouselExampleIndicators {
+	text-align: center;
+}
+
+
+#descrip {
+	margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+}
+
+.brand {
+	font-family: 'Rock Salt', cursive;
+}
